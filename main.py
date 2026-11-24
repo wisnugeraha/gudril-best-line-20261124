@@ -11,3 +11,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# main.py writes exactly one line (UTF-8, ≤240 chars) to /output/entry.txt.
