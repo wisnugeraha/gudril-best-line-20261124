@@ -11,10 +11,10 @@ My entry for the “One Line, Best Line” bounty: one line, 240 characters or f
 ## Run it
 
 ```sh
-python3 main.py
+python3 entry-main.py
 ```
 
-`main.py` writes the one line to `/output/entry.txt` (UTF-8, 100 characters, one trailing newline). Python 3.13 stdlib only, no network, deterministic.
+`entry-main.py` writes the one line to `/output/entry.txt` (UTF-8, 100 characters, one trailing newline). Python 3.13 stdlib only, no network, deterministic.
 
 ---
 
